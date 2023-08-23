@@ -1,0 +1,11 @@
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\bin\Debug\ödev deneme hocanın istediği gibi.exe.config
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\bin\Debug\ödev deneme hocanın istediği gibi.exe
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\bin\Debug\ödev deneme hocanın istediği gibi.pdb
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\obj\Debug\ödev deneme hocanın istediği gibi.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\obj\Debug\ödev deneme hocanın istediği gibi.csproj.SuggestedBindingRedirects.cache
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\obj\Debug\ödev_deneme_hocanın_istediği_gibi.Form1.resources
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\obj\Debug\ödev_deneme_hocanın_istediği_gibi.Properties.Resources.resources
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\obj\Debug\ödev deneme hocanın istediği gibi.csproj.GenerateResource.cache
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\obj\Debug\ödev deneme hocanın istediği gibi.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\obj\Debug\ödev deneme hocanın istediği gibi.exe
+C:\Users\melih\Desktop\c# programlama\ödev deneme hocanın istediği gibi\ödev deneme hocanın istediği gibi\obj\Debug\ödev deneme hocanın istediği gibi.pdb
